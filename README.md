@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CIFAR-10 Image Classifier 🎯
 
 A Convolutional Neural Network (CNN) built with **PyTorch** to classify images from the **CIFAR-10** dataset into 10 object categories: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.[web:110][web:112]
@@ -71,3 +72,6 @@ pip install -r requirements.txt
 4.Verify installation
 
 python -c "import torch, torchvision; print('PyTorch version:', torch.__version__)"
+=======
+# cifar10-image-classifier
+>>>>>>> 8d5ed355f061275cde097926095d4934c4fb2695
